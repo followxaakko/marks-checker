@@ -1,3 +1,3 @@
 # marks-checker
-*Demo
+* Demo
   * Link =
